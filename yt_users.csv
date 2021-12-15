@@ -1,62 +1,62 @@
-﻿user_name;user_url
-FISERV;https://www.youtube.com/fiserv
-QUANTEXA;https://www.youtube.com/c/quantexa
-ACCUITY;https://www.youtube.com/user/AccuitysTube
-LEXIS NEXIS;https://www.youtube.com/channel/UCiXiETLcbj3SVxCYTx3ClZw
-CLOUDERA;https://www.youtube.com/channel/UCXY5wm6HlBL_Y_8SDxJNR0g
-UNICA;https://www.youtube.com/channel/UC07b9GB8a-4c6-T6pd2bbBQ
-ADOBE;https://www.youtube.com/user/AdobeSystems/Adobe
-NP6;https://www.youtube.com/user/np6group
-TERADATA;https://www.youtube.com/user/teradata
-SUBSKILL;
-CANAL PLUS;https://www.youtube.com/user/canalplusfrance
-ACCENTURE;https://www.youtube.com/channel/UCvDOfCgmS7q4OYMKVpy5Xjw
-AIRBUS GROUP;https://www.youtube.com/user/airbus
-ALTERYX;https://www.youtube.com/user/alteryx
-ATOS;https://www.youtube.com/user/atos
-AVISIA;
-BUSINESS ET DECISION;https://www.youtube.com/user/BandD75
-CAP GEMINI;https://www.youtube.com/channel/UCRHMhVXEsPtTQ60dkxg8VXw
-CGI;https://www.youtube.com/cgifrance_tv
-D-AIM;https://www.youtube.com/channel/UC7X-rcl_mUw9ivXzVHmm-Cg
-DATABRICKS;https://www.youtube.com/c/Databricks
-DATAIKU;https://www.youtube.com/channel/UCSMqVwPTmerMiCaL_zKRjBw/featured
-DATAROBOT;https://www.youtube.com/channel/UC5fFOfzgxQ9XVqNesi9U0MQ
-DELOITTE;https://www.youtube.com/c/deloitte
-DOMINO DATA LAB;https://www.youtube.com/c/Dominodatalab
-ERNST AND YOUNG;https://www.youtube.com/c/ernstyoung
-GOOGLE CLOUD;https://www.youtube.com/googlecloud
-H2OAI;https://www.youtube.com/channel/UCk6ONJlPzjw3DohAeMSgsng
-IBM;https://www.youtube.com/user/IBM
-JMP;https://www.youtube.com/user/JMPSoftwareFromSAS
-KEYRUS;https://www.youtube.com/user/KEYRUSGROUPE/videos
-KNIME;https://www.youtube.com/user/KNIMETV
-KPMG;https://www.instagram.com/kpmg_france/
-LINCOLN;https://www.youtube.com/user/lincolnfinancialgrp
-MATHWORKS;https://www.youtube.com/user/MATLAB
-MICROPOLE;https://www.youtube.com/user/MicropoleGroupe2013
-MICROSOFT;https://www.youtube.com/MICROSOFT
-MINITAB;https://www.youtube.com/channel/UCcIoYrgo8Irq8bNR6Bpqdbg
-NOVENCIA;https://www.youtube.com/user/novenciagroup
-ORACLE;https://www.youtube.com/oracle
-PEGASYSTEMS;https://www.youtube.com/user/Pegasystems
-PWC;https://www.youtube.com/user/pwc
-RAPIDMINER;https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug
-SAS;https://www.youtube.com/SASsoftware
-SIX FOIS SEPT;
+﻿user_name,user_url
+FISERV,https://www.youtube.com/fiserv
+QUANTEXA,https://www.youtube.com/c/quantexa
+ACCUITY,https://www.youtube.com/user/AccuitysTube
+LEXIS NEXIS,https://www.youtube.com/channel/UCiXiETLcbj3SVxCYTx3ClZw
+CLOUDERA,https://www.youtube.com/channel/UCXY5wm6HlBL_Y_8SDxJNR0g
+UNICA,https://www.youtube.com/channel/UC07b9GB8a-4c6-T6pd2bbBQ
+ADOBE,https://www.youtube.com/user/AdobeSystems/Adobe
+NP6,https://www.youtube.com/user/np6group
+TERADATA,https://www.youtube.com/user/teradata
+SUBSKILL,
+CANAL PLUS,https://www.youtube.com/user/canalplusfrance
+ACCENTURE,https://www.youtube.com/channel/UCvDOfCgmS7q4OYMKVpy5Xjw
+AIRBUS GROUP,https://www.youtube.com/user/airbus
+ALTERYX,https://www.youtube.com/user/alteryx
+ATOS,https://www.youtube.com/user/atos
+AVISIA,
+BUSINESS ET DECISION,https://www.youtube.com/user/BandD75
+CAP GEMINI,https://www.youtube.com/channel/UCRHMhVXEsPtTQ60dkxg8VXw
+CGI,https://www.youtube.com/cgifrance_tv
+D-AIM,https://www.youtube.com/channel/UC7X-rcl_mUw9ivXzVHmm-Cg
+DATABRICKS,https://www.youtube.com/c/Databricks
+DATAIKU,https://www.youtube.com/channel/UCSMqVwPTmerMiCaL_zKRjBw/featured
+DATAROBOT,https://www.youtube.com/channel/UC5fFOfzgxQ9XVqNesi9U0MQ
+DELOITTE,https://www.youtube.com/c/deloitte
+DOMINO DATA LAB,https://www.youtube.com/c/Dominodatalab
+ERNST AND YOUNG,https://www.youtube.com/c/ernstyoung
+GOOGLE CLOUD,https://www.youtube.com/googlecloud
+H2OAI,https://www.youtube.com/channel/UCk6ONJlPzjw3DohAeMSgsng
+IBM,https://www.youtube.com/user/IBM
+JMP,https://www.youtube.com/user/JMPSoftwareFromSAS
+KEYRUS,https://www.youtube.com/user/KEYRUSGROUPE/videos
+KNIME,https://www.youtube.com/user/KNIMETV
+KPMG,https://www.instagram.com/kpmg_france/
+LINCOLN,https://www.youtube.com/user/lincolnfinancialgrp
+MATHWORKS,https://www.youtube.com/user/MATLAB
+MICROPOLE,https://www.youtube.com/user/MicropoleGroupe2013
+MICROSOFT,https://www.youtube.com/MICROSOFT
+MINITAB,https://www.youtube.com/channel/UCcIoYrgo8Irq8bNR6Bpqdbg
+NOVENCIA,https://www.youtube.com/user/novenciagroup
+ORACLE,https://www.youtube.com/oracle
+PEGASYSTEMS,https://www.youtube.com/user/Pegasystems
+PWC,https://www.youtube.com/user/pwc
+RAPIDMINER,https://www.youtube.com/channel/UCxneJBWWNLs-A6ckls1Rrug
+SAS,https://www.youtube.com/SASsoftware
+SIX FOIS SEPT,
 SNOWFLAKE;https://www.youtube.com/channel/UCs10x-muRrTQMJ4Ya-fmIlw
-SOGETI;https://www.youtube.com/c/SogetiWorldwide
-SOPRA STERIA GROUP;https://www.youtube.com/user/steriagroup
-TIBCO;https://www.youtube.com/user/TIBCOproducts
-UMANIS;https://www.youtube.com/channel/UClenssj5AZ5VqP5volsp54w
-SCHNEIDER ELECTRIC;https://www.youtube.com/channel/UCnpqjEw2RHDBNVGDe8pI7tw
-QUANTMETRY;https://www.youtube.com/channel/UCQAcT-UzxVuV9_wHmn12Dfw
-MOODYS;youtube.com/channel/UCyWqT8lrGbRqWa30c_l5iSw
-STANWELL;https://www.youtube.com/channel/UCeMBPxZ8odDbkp9L77xxjdg
-NICE ACTIMIZE;https://www.youtube.com/channel/UC4tmsS3fAVLp1Ue0DF-EauA
-THETARAY;https://www.youtube.com/channel/UCnygTgxdaLM9mUcGUThTrxQ
-BAE SYSTEMS;https://www.youtube.com/user/BAESystemsplc
-FICO;https://www.youtube.com/user/FICOTechTalk
-DATAWALK;https://www.youtube.com/channel/UC9sL-Z8RvqfF3uxMF04lRmA
-LINKURIOUS;https://www.youtube.com/c/linkurious
-CAMBRIDGE INTELLIGENCE;https://www.youtube.com/c/Cambridge-intelligence
+SOGETI,https://www.youtube.com/c/SogetiWorldwide
+SOPRA STERIA GROUP,https://www.youtube.com/user/steriagroup
+TIBCO,https://www.youtube.com/user/TIBCOproducts
+UMANIS,https://www.youtube.com/channel/UClenssj5AZ5VqP5volsp54w
+SCHNEIDER ELECTRIC,https://www.youtube.com/channel/UCnpqjEw2RHDBNVGDe8pI7tw
+QUANTMETRY,https://www.youtube.com/channel/UCQAcT-UzxVuV9_wHmn12Dfw
+MOODYS,youtube.com/channel/UCyWqT8lrGbRqWa30c_l5iSw
+STANWELL,https://www.youtube.com/channel/UCeMBPxZ8odDbkp9L77xxjdg
+NICE ACTIMIZE,https://www.youtube.com/channel/UC4tmsS3fAVLp1Ue0DF-EauA
+THETARAY,https://www.youtube.com/channel/UCnygTgxdaLM9mUcGUThTrxQ
+BAE SYSTEMS,https://www.youtube.com/user/BAESystemsplc
+FICO,https://www.youtube.com/user/FICOTechTalk
+DATAWALK,https://www.youtube.com/channel/UC9sL-Z8RvqfF3uxMF04lRmA
+LINKURIOUS,https://www.youtube.com/c/linkurious
+CAMBRIDGE INTELLIGENCE,https://www.youtube.com/c/Cambridge-intelligence
